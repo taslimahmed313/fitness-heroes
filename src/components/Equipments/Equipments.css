@@ -10,3 +10,10 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 15px;
 }
+
+@media screen and (max-width: 900px) {
+  .equipment-container {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0 10px;
+  }
+}
