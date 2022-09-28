@@ -4,14 +4,15 @@ import Details from '../Details/Details';
 import Personal from '../Personal/Personal';
 import './Cart.css';
 
-const Cart = () => {
-    return (
-        <div className='cart-info'>
-            <Personal></Personal>
-            <Break></Break>
-            <Details></Details>
-        </div>
-    );
+const Cart = ({ exerciseTime }) => {
+    // console.log(exerciseTime)
+  return (
+    <div className="cart-info">
+      <Personal></Personal>
+      <Break></Break>
+      <Details exerciseTime={exerciseTime}></Details>
+    </div>
+  );
 };
 
 export default Cart;

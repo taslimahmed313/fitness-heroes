@@ -7,16 +7,20 @@ const Home = () => {
 
     const [exerciseTime, setExerciseTime] = useState([]);
 
-    
+    const handleExerciseTime = (equipment) =>{
+        const newExerciseTime = [...exerciseTime, equipment]
+        setExerciseTime(newExerciseTime);
+
+    }
 
     return (
       <div className="home">
         <div className="equipments-container">
-          <Equipments></Equipments>
+          <Equipments handleExerciseTime={handleExerciseTime}></Equipments>
         </div>
         
         <div className="cart-container">
-          <Cart></Cart>
+          <Cart exerciseTime={exerciseTime}></Cart>
         </div>
       </div>
     );
