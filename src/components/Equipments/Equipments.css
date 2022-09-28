@@ -1,5 +1,9 @@
-.equipments {
+.club-name {
+  margin-top: 50px;
+  color: tomato;
+}
+.equipment-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 25px;
+  grid-gap: 15px;
 }

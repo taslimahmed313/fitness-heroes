@@ -1,11 +1,25 @@
 .equipment {
-  width: 200px;
+  width: 180px;
   border: 2px solid gray;
   padding: 10px;
   border-radius: 8px;
+  text-align: center;
+  background-color: white;
 }
 .equipment img {
   width: 100%;
-  height: 100px;
+  height: 90px;
   border-radius: 8px;
+}
+.equipment-info {
+  text-align: start;
+}
+.equipment button {
+  color: white;
+  background-color: tomato;
+  width: 90%;
+  padding: 10px;
+  font-weight: 500;
+  border: none;
+  border-radius: 10px;
 }
