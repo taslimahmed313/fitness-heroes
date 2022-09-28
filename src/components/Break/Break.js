@@ -4,7 +4,7 @@ import './Break.css';
 const Break = () => {
     return (
         <div>
-            <h4>Add a Break</h4>
+            <p>Add a Break</p>
             <div className='btn-break'>
                 <button>10s</button>
                 <button>20s</button>
