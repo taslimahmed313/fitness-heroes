@@ -1,0 +1,105 @@
+[
+  {
+    "id": "1",
+    "name": "Barbell",
+    "price": 420,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://images.unsplash.com/photo-1556817411-51d71c36cd87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHxBWnlWdzJXOFAxRXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "name": "Plate Roller",
+    "price": 196,
+    "stock": 19,
+    "ratings": 5,
+    "ratingsCount": 4355,
+    "img": "https://images.unsplash.com/photo-1597076545399-91a3ff0e71b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGd5bSUyMGVxdWlwbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    "shipping": 14,
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "name": "Indoor Bike",
+    "price": 245,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3972,
+    "img": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGd5bSUyMGVxdWlwbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "4",
+    "category": "Men's Sneaker",
+    "name": "Dumbbells",
+    "seller": "Addidas",
+    "price": 229,
+    "stock": 10,
+    "ratings": 5,
+    "ratingsCount": 1764,
+    "img": "https://images.unsplash.com/photo-1589579234072-d9b970f903be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8QVp5VncyVzhQMUV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+    "shipping": 32,
+    "quantity": 0
+  },
+  {
+    "id": "5",
+    "name": "Ballance Band Handle",
+    "price": 287,
+    "stock": 11,
+    "ratings": 4,
+    "ratingsCount": 799,
+    "img": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Z3ltJTIwZXF1aXBtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    "shipping": 49,
+    "quantity": 0
+  },
+  {
+    "id": "6",
+    "name": "Hanging Chain",
+    "price": 138,
+    "stock": 19,
+    "ratings": 3,
+    "ratingsCount": 4372,
+    "img": "https://images.unsplash.com/photo-1551203531-293d56b157c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXxBWnlWdzJXOFAxRXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "shipping": 19,
+    "quantity": 0
+  },
+  {
+    "id": "7",
+    "category": "Men's Sneaker",
+    "name": "Round Plastic Lid",
+    "seller": "Addidas",
+    "price": 226,
+    "stock": 1,
+    "ratings": 4,
+    "ratingsCount": 2870,
+    "img": "https://images.unsplash.com/photo-1589955898954-9c8d4bb86823?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxBWnlWdzJXOFAxRXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "shipping": 15,
+    "quantity": 0
+  },
+  {
+    "id": "8",
+    "name": "Metal Frame",
+    "price": 319,
+    "stock": 7,
+    "ratings": 4,
+    "ratingsCount": 1360,
+    "img": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8QVp5VncyVzhQMUV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+    "shipping": 50,
+    "quantity": 0
+  },
+  {
+    "id": "9",
+    "name": "Barbell On Rack",
+    "price": 260,
+    "stock": 4,
+    "ratings": 5,
+    "ratingsCount": 1976,
+    "img": "https://images.unsplash.com/photo-1558611848-73f7eb4001a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTl8QVp5VncyVzhQMUV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+    "shipping": 46,
+    "quantity": 0
+  }
+]
