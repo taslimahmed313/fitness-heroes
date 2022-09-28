@@ -9,7 +9,7 @@ const Equipment = ({equipment}) => {
         <div className="equipment-info">
           <h4>{name}</h4>
           <p>For Age : {age}</p>
-          <p>Time Required : {time}</p>
+          <p>Time Required : {time}s</p>
         </div>
         <button>Add To List</button>
       </div>

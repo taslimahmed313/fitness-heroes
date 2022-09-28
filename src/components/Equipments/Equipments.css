@@ -2,6 +2,9 @@
   margin-top: 50px;
   color: tomato;
 }
+.icon-dum {
+  margin-right: 10px;
+}
 .equipment-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

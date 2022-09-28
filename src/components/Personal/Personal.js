@@ -1,3 +1,5 @@
+import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from 'react';
 import img from '../../image/me.jpg';
 import './Personal.css';
@@ -12,6 +14,7 @@ const Personal = () => {
             <div className="text-info">
               <h4>Taslim Ahmed</h4>
               <p>
+                <FontAwesomeIcon className="icon-loc" icon={faLocationDot} />
                 <small>Mymensing, BD</small>
               </p>
             </div>
@@ -22,7 +25,9 @@ const Personal = () => {
                 75<small>kg</small>
               </span>
               <span>5.7</span>
-              <span>22<small>yrs</small></span>
+              <span>
+                22<small>yrs</small>
+              </span>
             </div>
             <div className="body-structure">
               <span>Weight</span>

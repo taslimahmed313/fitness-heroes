@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Cart from '../Cart/Cart';
 import Equipments from '../Equipments/Equipments';
 import './Home.css';
 
 const Home = () => {
+
+    const [exerciseTime, setExerciseTime] = useState([]);
+
+    
 
     return (
       <div className="home">
