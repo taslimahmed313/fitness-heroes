@@ -1,7 +1,7 @@
 import React from 'react';
 import './Details.css';
 
-const Details = ({ exerciseTime }) => {
+const Details = ({ exerciseTime, breakTime }) => {
     // console.log(exerciseTime);
     let total = 0;
     for(const equipment of exerciseTime){
@@ -16,7 +16,7 @@ const Details = ({ exerciseTime }) => {
       </div>
       <div className="time-spend">
         <p>Break Time</p>
-        <span>00 seconds</span>
+        <span>{breakTime} seconds</span>
       </div>
       <button>Activity Completed</button>
     </div>

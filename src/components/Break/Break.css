@@ -1,3 +1,6 @@
+.btn-group button {
+  display: flex;
+}
 .btn-break {
   background-color: rgb(238, 244, 245);
   padding: 7px;
