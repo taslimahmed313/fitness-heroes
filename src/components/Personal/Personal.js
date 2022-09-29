@@ -22,7 +22,7 @@ const Personal = () => {
           <div className="body">
             <div className="body-structure">
               <span>
-                75<small>kg</small>
+                59<small>kg</small>
               </span>
               <span>5.7</span>
               <span>
