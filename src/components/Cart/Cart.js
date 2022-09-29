@@ -20,7 +20,7 @@ const Cart = ({ exerciseTime }) => {
     <div className="cart-info">
       <Personal></Personal>
       <Break handleBreakTime={handleBreakTime}></Break>
-      <Details exerciseTime={exerciseTime} breakTimeStored={breakTimeStored}></Details>
+      <Details exerciseTime={exerciseTime} breakTime={breakTime} breakTimeStored={breakTimeStored}></Details>
     </div>
   );
 };

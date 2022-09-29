@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Cart from '../Cart/Cart';
 import Equipments from '../Equipments/Equipments';
+import Question from '../Question/Question';
 import './Home.css';
 
 const Home = () => {
@@ -12,14 +13,17 @@ const Home = () => {
     }
 
     return (
-      <div className="home">
-        <div className="equipments-container">
-          <Equipments handleExerciseTime={handleExerciseTime}></Equipments>
+      <div>
+        <div className="home">
+          <div className="equipments-container">
+            <Equipments handleExerciseTime={handleExerciseTime}></Equipments>
+          </div>
+
+          <div className="cart-container">
+            <Cart exerciseTime={exerciseTime}></Cart>
+          </div>
         </div>
-        
-        <div className="cart-container">
-          <Cart exerciseTime={exerciseTime}></Cart>
-        </div>
+        <Question></Question>
       </div>
     );
 };
