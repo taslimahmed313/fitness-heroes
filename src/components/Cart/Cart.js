@@ -6,7 +6,7 @@ import './Cart.css';
 
 const Cart = ({ exerciseTime }) => {
 
-    const [breakTime, setBreakTime] = useState(0);
+    const [breakTime, setBreakTime] = useState([0]);
 
     const breakTimeStored = localStorage.getItem('time');
     

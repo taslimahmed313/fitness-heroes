@@ -20,7 +20,7 @@ const Details = ({ exerciseTime, breakTimeStored }) => {
       </div>
       <div className="time-spend">
         <p>Break Time</p>
-        <span>{breakTimeStored} seconds</span>
+        <span>{breakTimeStored ? breakTimeStored: 0} seconds</span>
       </div>
       <button onClick={handleActivity}>Activity Completed</button>
     </div>
