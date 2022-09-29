@@ -4,10 +4,7 @@
     "name": "Barbell",
     "time": 40,
     "age": "20-22",
-    "ratings": 4,
-    "ratingsCount": 3725,
     "img": "https://images.unsplash.com/photo-1556817411-51d71c36cd87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHxBWnlWdzJXOFAxRXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
-    "shipping": 1,
     "quantity": 0
   },
   {
@@ -15,10 +12,7 @@
     "name": "Plate Roller",
     "time": 20,
     "age": "20-26",
-    "ratings": 5,
-    "ratingsCount": 4355,
     "img": "https://images.unsplash.com/photo-1597076545399-91a3ff0e71b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGd5bSUyMGVxdWlwbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
-    "shipping": 14,
     "quantity": 0
   },
   {
@@ -26,10 +20,7 @@
     "name": "Indoor Bike",
     "time": 45,
     "age": "20-28",
-    "ratings": 4,
-    "ratingsCount": 3972,
     "img": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGd5bSUyMGVxdWlwbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
-    "shipping": 1,
     "quantity": 0
   },
   {
@@ -39,10 +30,7 @@
     "seller": "Addidas",
     "time": 30,
     "age": "20-35",
-    "ratings": 5,
-    "ratingsCount": 1764,
     "img": "https://images.unsplash.com/photo-1589579234072-d9b970f903be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8QVp5VncyVzhQMUV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
-    "shipping": 32,
     "quantity": 0
   },
   {
@@ -50,10 +38,7 @@
     "name": "Ballance Band Handle",
     "time": 50,
     "age": "20-37",
-    "ratings": 4,
-    "ratingsCount": 799,
     "img": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Z3ltJTIwZXF1aXBtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
-    "shipping": 49,
     "quantity": 0
   },
   {
@@ -61,10 +46,7 @@
     "name": "Hanging Chain",
     "time": 35,
     "age": "14-38",
-    "ratings": 3,
-    "ratingsCount": 4372,
     "img": "https://images.unsplash.com/photo-1551203531-293d56b157c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXxBWnlWdzJXOFAxRXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
-    "shipping": 19,
     "quantity": 0
   },
   {
@@ -72,10 +54,7 @@
     "name": "Round Plastic Lid",
     "time": 60,
     "age": "20-40",
-    "ratings": 4,
-    "ratingsCount": 2870,
     "img": "https://images.unsplash.com/photo-1589955898954-9c8d4bb86823?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxBWnlWdzJXOFAxRXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
-    "shipping": 15,
     "quantity": 0
   },
   {
@@ -83,10 +62,8 @@
     "name": "Metal Frame",
     "time": 30,
     "age": "18-22",
-    "ratings": 4,
-    "ratingsCount": 1360,
     "img": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8QVp5VncyVzhQMUV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
-    "shipping": 50,
+
     "quantity": 0
   },
   {
@@ -94,10 +71,7 @@
     "name": "Barbell On Rack",
     "time": 40,
     "age": "20-29",
-    "ratings": 5,
-    "ratingsCount": 1976,
     "img": "https://images.unsplash.com/photo-1558611848-73f7eb4001a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTl8QVp5VncyVzhQMUV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
-    "shipping": 46,
     "quantity": 0
   }
 ]

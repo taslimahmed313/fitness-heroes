@@ -15,7 +15,8 @@
   font-weight: 500;
 }
 .time-spend span {
-  color: rgb(160, 160, 149);
+  color: rgb(75, 72, 70);
+  font-weight: 400;
 }
 .exercise-timing button {
   margin-top: 50px;

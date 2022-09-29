@@ -2,7 +2,7 @@ import React from 'react';
 import swal from "sweetalert";
 import './Details.css';
 
-const Details = ({ exerciseTime, breakTime }) => {
+const Details = ({ exerciseTime, breakTimeStored }) => {
     // console.log(exerciseTime);
     let total = 0;
     for(const equipment of exerciseTime){
@@ -20,7 +20,7 @@ const Details = ({ exerciseTime, breakTime }) => {
       </div>
       <div className="time-spend">
         <p>Break Time</p>
-        <span>{breakTime} seconds</span>
+        <span>{breakTimeStored} seconds</span>
       </div>
       <button onClick={handleActivity}>Activity Completed</button>
     </div>

@@ -14,7 +14,7 @@ const Equipments = ({ handleExerciseTime }) => {
   }, []);
   return (
     <div>
-      <div>
+      <div className="club-info">
         <h2 className="club-name">
           <FontAwesomeIcon className="icon-dum" icon={faDumbbell} />
           Fitness-Heroes

@@ -15,5 +15,9 @@
   .equipment-container {
     grid-template-columns: repeat(1, 1fr);
     margin: 0 10px;
+    width: 100%;
+  }
+  .club-info {
+    text-align: center;
   }
 }
