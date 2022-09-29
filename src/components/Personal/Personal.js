@@ -29,7 +29,7 @@ const Personal = () => {
                 22<small>yrs</small>
               </span>
             </div>
-            <div className="body-structure">
+            <div className="body-structure-name">
               <span>Weight</span>
               <span>Height</span>
               <span>Age</span>

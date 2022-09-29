@@ -25,12 +25,23 @@
   background-color: rgb(238, 244, 245);
   padding: 5px 10px;
   border-radius: 8px;
-  font-weight: 500;
 }
 .body-structure {
   display: flex;
   justify-content: space-between;
   margin-top: 5px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.body-structure-name {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  font-size: 13px;
+}
+.body-structure small {
+  color: rgb(157, 153, 150);
+  font-size: 13;
 }
 @media screen and (max-width: 576px) {
   .text-img {
