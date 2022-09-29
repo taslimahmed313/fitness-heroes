@@ -1,4 +1,5 @@
 import React from 'react';
+import swal from "sweetalert";
 import './Details.css';
 
 const Details = ({ exerciseTime, breakTime }) => {
@@ -6,6 +7,9 @@ const Details = ({ exerciseTime, breakTime }) => {
     let total = 0;
     for(const equipment of exerciseTime){
         total = total + equipment.time;
+    }
+    const handleActivity = () =>{
+        swal("Great Work!", "You Completed The Activity !", "success");
     }
   return (
     <div className="exercise-timing">
@@ -18,7 +22,7 @@ const Details = ({ exerciseTime, breakTime }) => {
         <p>Break Time</p>
         <span>{breakTime} seconds</span>
       </div>
-      <button>Activity Completed</button>
+      <button onClick={handleActivity}>Activity Completed</button>
     </div>
   );
 };
