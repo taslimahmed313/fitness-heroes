@@ -6,12 +6,19 @@ import './Home.css';
 const Home = () => {
 
     const [exerciseTime, setExerciseTime] = useState([]);
+    
+
 
     const handleExerciseTime = (equipment) =>{
         const newExerciseTime = [...exerciseTime, equipment]
         setExerciseTime(newExerciseTime);
-
     }
+
+    
+    // const handleExerciseTime = (equipment) =>{
+    //     const newExerciseTime = [...exerciseTime, equipment]
+    //     setExerciseTime(newExerciseTime);
+    // }
 
     return (
       <div className="home">

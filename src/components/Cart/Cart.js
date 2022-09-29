@@ -10,7 +10,9 @@ const Cart = ({ exerciseTime }) => {
 
     const handleBreakTime = (value) =>{
         setBreakTime(value);
+        localStorage.setItem('time', value)
     }
+    // console.log(breakTime)
     
   return (
     <div className="cart-info">
